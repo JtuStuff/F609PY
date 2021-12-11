@@ -66,6 +66,7 @@ def ip() :
 
 pi = requests.get("http://ipv4.icanhazip.com").text
 
+## BETA VERSION !!!!
 w = 1
 while w < 2 :
     print("\nPlease noted if this is not always work\nand if this have same ip but not still not cannot be accessed plz reboot again without this script\nor just use reboot.py\n\n")
